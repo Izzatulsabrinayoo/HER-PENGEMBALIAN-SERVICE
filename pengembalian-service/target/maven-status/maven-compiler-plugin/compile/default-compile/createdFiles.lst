@@ -1,0 +1,10 @@
+com\izza\pengembalian\service\repository\PengembalianRepository.class
+com\izza\pengembalian\service\VO\Peminjaman.class
+com\izza\pengembalian\service\VO\Anggota.class
+com\izza\pengembalian\service\VO\ResponseTemplateVOPinjam.class
+com\izza\pengembalian\service\VO\ResponseTemplateVO.class
+com\izza\pengembalian\service\VO\Buku.class
+com\izza\pengembalian\service\controller\PengembalianController.class
+com\izza\pengembalian\service\entity\Pengembalian.class
+com\izza\pengembalian\service\PengembalianServiceApplication.class
+com\izza\pengembalian\service\service\PengembalianService.class
